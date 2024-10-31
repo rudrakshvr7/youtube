@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video Sharing - @Vidtube__Rudraksh</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="flex-div">
+        <div class="left flex-div">
+            <img src="images/menu.png" alt="" class="menu-icon">
+            <img src="images/logo.png" alt="" class="logo">
+        </div>
+        <div class="middle flex-div">
+            <div class="search-box flex-div">
+                <input type="text" placeholder="Search" />
+                <img src="images/search.png" alt="" />
+            </div>
+            <img src="images/voice-search.png" alt="" class="mic-icon">
+        </div>
+        <div class="right flex-div">
+            <img src="images/upload.png" alt="">
+            <img src="images/more.png" alt="">
+            <img src="images/notification.png" alt="">
+            <img src="images/Jack.png" class="user-icon" alt="">
+        </div>
+    </nav>
+    <!------------------- slidebar----------------- -->
+    <div class="slidebar">
+        <div class="shortcut-link">
+            <a href="#"><img src="images/home.png" alt=""><p>Home</p></a>
+            <a href="#"><img src="images/explore.png" alt=""><p>Explore</p></a>
+            <a href="#"><img src="images/subscriprion.png" alt=""><p>Subsciption</p></a>
+            <a href="#"><img src="images/library.png" alt=""><p>Library</p></a>
+            <a href="#"><img src="images/history.png" alt=""><p>History</p></a>
+            <a href="#"><img src="images/messages.png" alt=""><p>Messages</p></a>
+            <a href="#"><img src="images/show-more.png" alt=""><p>Show-More</p></a>
+            <hr>
+        </div>
+        <div class="subscribed-list">
+            <h3>SUBSCRIBED</h3>
+            <a href="#"><img src="images/Jack.png" alt=""><p>Rudra_@2010</p></a>
+            <a href="#"><img src="images/simon.png" alt=""><p>siva@2013</p></a>
+            <a href="#"><img src="images/tom.png" alt=""><p>Rajesh_@1965</p></a>
+            <a href="#"><img src="images/megan.png" alt=""><p>Sheeba_@1975</p></a>
+            <a href="#"><img src="images/cameron.png" alt=""><p>Simo@2011</p></a>
+        </div>
+    </div>
+    <!------------------- main----------------- -->
+    <div class="container">
+        <div class="banner">
+            <img src="images/banner.png" alt="">
+        </div>
+        <div class="list-container">
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail1.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail2.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail3.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail4.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail5.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail6.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail7.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail8.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail7.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail1.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail2.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+            <div class="vid-list">
+                <a href="play-video.html"><img src="images/thumbnail3.png" alt="" class="thumbnail1"></a>
+                <div class="flex-div">
+                    <img src="images/Jack.png" alt="">
+                    <div class="vid-info">
+                        <a href="#">Best channel to lern brarathanatyam from the simple steps made 
+                            by SivaPriya V.R</a>
+                        <p>Easy Brarathanatyam</p>
+                        <p>120k views &bull; 2 days ago</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
